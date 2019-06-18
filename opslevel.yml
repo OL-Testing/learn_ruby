@@ -1,0 +1,10 @@
+version: 1
+service:
+  name: Forked Service
+  lifecycle: beta
+  tier: tier_4
+  product: Fork
+  owner: inventory_team
+  language: Ruby
+  framework: Rails
+  description: Manages forks
