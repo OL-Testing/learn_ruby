@@ -1,6 +1,6 @@
 version: 1
 service:
-  name: Forked Service
+  name: Forked
   lifecycle: beta
   tier: tier_4
   product: Fork
