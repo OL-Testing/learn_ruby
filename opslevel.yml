@@ -2,7 +2,7 @@ version: 1
 service:
   name: Forked
   lifecycle: beta
-  tier: tier_4
+  tier: tier_2
   product: Fork
   owner: inventory_team
   language: Ruby
