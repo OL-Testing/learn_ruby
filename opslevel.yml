@@ -8,3 +8,5 @@ service:
   language: Ruby
   framework: Rails
   description: Manages forks in Ruby on Rails
+  aliases:
+  - foo
