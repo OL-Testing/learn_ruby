@@ -9,4 +9,4 @@ service:
   framework: Rails
   description: Manages forks in Ruby on Rails
   aliases:
-  - foo
+  - foos
