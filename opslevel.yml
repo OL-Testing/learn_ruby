@@ -10,4 +10,3 @@ service:
   description: Manages forks in Ruby on Rails
   aliases:
   - foos
-  - ball
